@@ -1,0 +1,17 @@
+INICIO
+    1. Abrir os olhos
+    2. Sentar na cama
+    3. Falar com o cachorro
+    4. Se o ar-condicionado estiver ligado:
+        1. Levantar da cama.
+        2. Pegar o controle do ar-condicionado na mesa.
+        3. Desligar o ar-condicionado.
+        4. Colocar o controle do ar-condicionado de volta na mesa.
+    5. Se o ar-condicionado não estiver ligado:
+        1. Levantar da cama.
+        2. Caminha até a porta.
+        3. Abrir a porta pro cachorro.
+        4. Desligar o ventilador.
+        5. Acender a luz.
+    6. Ir tomar banho.
+
