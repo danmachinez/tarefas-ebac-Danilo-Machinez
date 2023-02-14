@@ -13,7 +13,7 @@ public class Carro {
 
     /**
      * Getters and Setters dos metodos
-     * @return os propios metodos
+     * @return os proprios metodos
      */
     public String getModelo() {
         return modelo;
