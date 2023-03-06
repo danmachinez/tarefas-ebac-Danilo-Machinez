@@ -28,7 +28,7 @@ public class Main {
 
         if (mediaAlunos >= 7) {
            return("O aluno está aprovado ");
-       } else if (mediaAlunos >= 5 && mediaAlunos <=6){
+       } else if (mediaAlunos >= 5){
             return("O aluno está de recuperação ");
         } else {
             return ("o aluno reprovou ");
